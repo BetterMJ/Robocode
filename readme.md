@@ -14,7 +14,7 @@ Das Ziel im Spiel ist es, die meisten Punkten in einem Spiel zu holen, man bekom
 Ich habe meinen Bot (CatSlayer69) mit Java im Source-Editor programmiert. Man öffnet den Editor indem man das Spiel startet, auf "Robot" geht und "Source Editor" auswählt.
 Nun kann man einen Roboter öffnen oder kreieren, es gibt API's vom Hersteller zur Hilfestellung der Programmierung.
 
-Nach vielen Versionen, habe die Strategie meines Roboters "Sway" gennant. Das Ziel ist es, immer nach vorne und nach hinten zu bewegen, sodass man immer in Bewegung ist und alle Schüsse so gut wie möglich ausweicht. Man kann auch dank dieser Bewegung sehr Zielsicher sein, da wenn man einmal anvisiert ist, nicht gross die Waffe drehen muss. Mein Roboter macht zwischendurch auch Scans mit ``turnGunRight(360);`` und wenn er einen Gegner gescannt hat, zielt er mit seiner Waffe auf diese Richtung und schiesst.
+Nach vielen Versionen, habe ich die Strategie meines Roboters "Sway" gennant. Das Ziel ist es, immer nach vorne und nach hinten zu bewegen, sodass man immer in Bewegung ist und alle Schüsse so gut wie möglich ausweicht. Man kann auch dank dieser Bewegung sehr zielsicher sein, da wenn man einmal anvisiert ist, nicht gross die Waffe drehen muss. Mein Roboter macht zwischendurch auch Scans mit ``turnGunRight(360);`` und wenn er einen Gegner gescannt hat, zielt er mit seiner Waffe auf diese Richtung und schiesst. Als Zusatz habe ich auch eine Funktion gemacht, welche schaut, ob der Roboter in der Nähe eine Ecke ist oder in der Nähe eines Randes und sich dann davon wegbewegt.
 
 ### Code
 ```java
