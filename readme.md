@@ -8,13 +8,13 @@ Aus persönlichem Interesse, aber auch als Auftrag, habe ich ein Roboter auf "Ro
 
 ## Inhalt 🧠
 ### Robocode und ein Roboter
-Robocode ist ein Programm, wo sich Roboter auf einem Spielfeld bekämpfen können. Roboter kann man selber in java programmieren, jedoch gibt es auch weitere Roboter im Netz, welche man brauchen kann.
-Das Ziel im Spiel ist es, die meisten Punkten in einem Spiel zu holen, man bekommt Punkte indem man anderen Robotern schaden macht, als längster überlebt und weitere kleinere Faktoren.
+Robocode ist ein Programm, wo sich Roboter auf einem Spielfeld bekämpfen können. Roboter kann man selber in Java programmieren, jedoch gibt es auch weitere Roboter im Netz, welche man brauchen kann.
+Das Ziel im Spiel ist es, die meisten Punkten in einem Spiel zu holen, man bekommt Punkte, indem man anderen Robotern schaden macht, als längster überlebt und weitere kleinere Faktoren.
 
-Ich habe meinen Bot (CatSlayer69) mit Java im Source-Editor programmiert. Man öffnet den Editor indem man das Spiel startet, auf "Robot" geht und "Source Editor" auswählt.
-Nun kann man einen Roboter öffnen oder kreieren, es gibt API's vom Hersteller zur Hilfestellung der Programmierung.
+Ich habe meinen Bot (CatSlayer69) mit Java im Source-Editor programmiert. Man öffnet den Editor, indem man das Spiel startet, auf "Robot" geht und "Source Editor" auswählt.
+Nun kann man einen Roboter öffnen oder kreieren, es gibt APIs vom Hersteller zur Hilfestellung der Programmierung.
 
-Nach vielen Versionen, habe ich die Strategie meines Roboters "Sway" gennant. Das Ziel ist es, immer nach vorne und nach hinten zu bewegen, sodass man immer in Bewegung ist und alle Schüsse so gut wie möglich ausweicht. Man kann auch dank dieser Bewegung sehr zielsicher sein, da wenn man einmal anvisiert ist, nicht gross die Waffe drehen muss. Mein Roboter macht zwischendurch auch Scans mit ``turnGunRight(360);`` und wenn er einen Gegner gescannt hat, zielt er mit seiner Waffe auf diese Richtung und schiesst. Als Zusatz habe ich auch eine Funktion gemacht, welche schaut, ob der Roboter in der Nähe eine Ecke ist oder in der Nähe eines Randes und sich dann davon wegbewegt.
+Nach vielen Versionen habe ich die Strategie meines Roboters "Sway" genannt. Das Ziel ist es, immer nach vorne und nach hinten zu bewegen, sodass man immer in Bewegung ist und alle Schüsse so gut wie möglich ausweicht. Man kann auch dank dieser Bewegung sehr zielsicher sein, da wenn man einmal anvisiert ist, nicht gross die Waffe drehen muss. Mein Roboter macht zwischendurch auch Scans mit ``turnGunRight(360);`` und wenn er einen Gegner gescannt hat, zielt er mit seiner Waffe auf diese Richtung und schiesst. Als Zusatz habe ich auch eine Funktion gemacht, welche schaut, ob der Roboter in der Nähe eine Ecke ist oder in der Nähe eines Randes und sich dann davon wegbewegt.
 
 ### Code
 ```java
