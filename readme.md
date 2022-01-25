@@ -166,4 +166,4 @@ Beim letztem Portfolio war der Verbersserungsvorschlag, dass ich
 --> SPEZIFISCHER ZUM NEG PUNKT, MIT PROGRAMM DAFÜR
 --> VBV VON LETZTEM MAL
 ## Verifikation ✅
-Florian Portmann, mein Freund und Banknachbar, kann bestätigen, dass er nun weiss was Robocode ist. Er weiss jetzt nun wie man ein Roboter programmieren kann und erkennte die Strategie meines Roboters.
+Man lernt was Robocode ist in Zeile 11 und 12. Man findet heraus, wie man einen Roboter programmiert auf Zeile 14 und 15, jecoch kann man auch den Code anschauen. Um die Strategie herauszufinden, findet man diese auf Zeile 17.
