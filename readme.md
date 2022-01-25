@@ -152,6 +152,7 @@ public class CatSlayer69 extends JuniorRobot
 ```
 
 ### Gif vom Spiel
+Der Roboter mit rotem Laser ist meiner.
 ![](https://media1.giphy.com/media/kJnUZH9p5oc7OCcMSt/giphy.gif)
 
 ## Reflexion ✨
