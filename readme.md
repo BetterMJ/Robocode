@@ -13,7 +13,7 @@ Aus persönlichem Intresse, aber auch als Auftrag, sollte ich ein Roboter auf "R
 ### Bild
 
 ### Gif
-![](blob:https://giphy.com/db5a3542-313d-4df4-9534-6c8f2ec1e055)
+![](https://media1.giphy.com/media/kJnUZH9p5oc7OCcMSt/giphy.gif)
 ## Reflexion
 Ich fand es gut, dass ich nicht zu viele Probleme hatte mit anderen Programmiersprachen. Zuvor hatte ich mehr Angst, andere Sprachen asuzuprobieren.
 Im Robot-Editor habe ich auch die Farben des Hintergrunds gewechselt, da es meinen Augen viel besser ging, nach stundenlangem Schauen.
