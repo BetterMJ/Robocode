@@ -14,14 +14,16 @@ Das Ziel im Spiel ist es, die meisten Punkten in einem Spiel zu holen, man bekom
 Ich habe meinen Bot (CatSlayer69) mit Java im Source-Editor programmiert. Man öffnet den Editor indem man das Spiel startet, auf "Robot" geht und "Source Editor" auswählt.
 Nun kann man einen Roboter öffnen oder kreieren, es gibt API's vom Hersteller zur Hilfestellung der Programmierung.
 
-Nach vielen Versionen, ist die Strategie meines Roboters "Sway" gennant. Das Ziel ist es, immer nach vorne und nach hinten bewegen, sodass man immer in Bewegung ist und alle Schüsse so gut wie möglich ausweicht. Man kann auch dank dieser Bewegung sehr Zielsicher sein, da wenn man einmal anvisiert ist, nicht gross die Waffe drehen muss. Mein Roboter macht zwischendurch auch Scans mit ``turnGunRight(360);`` und wenn er einen Gegner gescannt hat, ziel er mit seiner Waffe da hin und schiesst.
+Nach vielen Versionen, habe die Strategie meines Roboters "Sway" gennant. Das Ziel ist es, immer nach vorne und nach hinten zu bewegen, sodass man immer in Bewegung ist und alle Schüsse so gut wie möglich ausweicht. Man kann auch dank dieser Bewegung sehr Zielsicher sein, da wenn man einmal anvisiert ist, nicht gross die Waffe drehen muss. Mein Roboter macht zwischendurch auch Scans mit ``turnGunRight(360);`` und wenn er einen Gegner gescannt hat, zielt er mit seiner Waffe auf diese Richtung und schiesst.
 
 ### Bild vom Code
 ![](https://i.imgur.com/CBgRVw6.jpg)
 ![](https://i.imgur.com/kZ6vdQI.jpg)
 ![](https://i.imgur.com/69yWLAw.jpg)
+
 ### Gif vom Spiel
 ![](https://media1.giphy.com/media/kJnUZH9p5oc7OCcMSt/giphy.gif)
+
 ## Reflexion ✨
 Ich fand es gut, dass ich nicht zu viele Probleme hatte mit anderen Programmiersprachen. Zuvor hatte ich mehr Angst, andere Sprachen asuzuprobieren.
 Im Robot-Editor habe ich auch die Farben des Hintergrunds gewechselt, da es meinen Augen viel besser ging, nach stundenlangem Schauen.
