@@ -6,8 +6,8 @@ Aus persönlichem Intresse, aber auch als Auftrag, habe ich ein Roboter auf "Rob
 - Der Leser lernt, wie man ein Roboter kann programmieren
 - Der Leser lernt, was die Strategie meines Roboters ist
 
-## Inhalt
-### Robocode und ein Roboter 🤯
+## Inhalt 🧠
+### Robocode und ein Roboter
 Robocode ist ein Programm, wo sich Roboter auf einem Spielfeld bekämpfen können. Roboter kann man selber in java programmieren, jedoch gibt es auch weitere Roboter im Netz, welche man brauchen kann.
 Das Ziel im Spiel ist es, die meisten Punkten in einem Spiel zu holen, man bekommt Punkte indem man anderen Robotern schaden macht, als längster überlebt und weitere kleinere Faktoren.
 
@@ -16,11 +16,11 @@ Nun kann man einen Roboter öffnen oder kreieren, es gibt API's vom Hersteller z
 
 Nach vielen Versionen, ist die Strategie meines Roboters "Sway" gennant. Das Ziel ist es, immer nach vorne und nach hinten bewegen, sodass man immer in Bewegung ist und alle Schüsse so gut wie möglich ausweicht. Man kann auch dank dieser Bewegung sehr Zielsicher sein, da wenn man einmal anvisiert ist, nicht gross die Waffe drehen muss. Mein Roboter macht zwischendurch auch Scans mit ``turnGunRight(360);`` und wenn er einen Gegner gescannt hat, ziel er mit seiner Waffe da hin und schiesst.
 
-### Bild vom Code 💪
+### Bild vom Code
 ![](https://i.imgur.com/CBgRVw6.jpg)
 ![](https://i.imgur.com/kZ6vdQI.jpg)
 ![](https://i.imgur.com/69yWLAw.jpg)
-### Gif vom Spiel 🧠
+### Gif vom Spiel
 ![](https://media1.giphy.com/media/kJnUZH9p5oc7OCcMSt/giphy.gif)
 ## Reflexion ✨
 Ich fand es gut, dass ich nicht zu viele Probleme hatte mit anderen Programmiersprachen. Zuvor hatte ich mehr Angst, andere Sprachen asuzuprobieren.
