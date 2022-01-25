@@ -24,4 +24,4 @@ Als Verbesserung könnte man, bevor man anfängt zu programmieren, ein kleines W
 
 Beim letztem Portfolio war der Verbersserungsvorschlag, dass ich
 ## Verifikation
-Florian Portmann, mein Freund und Banknachbar, kann bestätigen, dass er nun weiss was Robocode ist. Er weiss jetzt nun wie man ein Roboter kann programmieren und erkennte die Strategie meines Roboters.
+Florian Portmann, mein Freund und Banknachbar, kann bestätigen, dass er nun weiss was Robocode ist. Er weiss jetzt nun wie man ein Roboter programmieren kann und erkennte die Strategie meines Roboters.
