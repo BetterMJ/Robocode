@@ -161,9 +161,9 @@ Im Robot-Editor habe ich auch die Farben des Hintergrunds gewechselt, da es mein
 Ich fand nicht so gut dass ich mir nicht eine konkrete Idee am Anfang erstellt habe, da ich somit viel mehr Zeit brauchte, eine Idee auf dem Weg zu entwickeln.
 Als Verbesserung könnte man, bevor man anfängt zu programmieren, ein kleines Word-Dokument oder eine Mindmap machen und die Ideen zusammenzuführen, analysieren und ausführen.
 
---> SPEZIFISCHER ZUM NEG PUNKT, MIT PROGRAMM DAFÜR
---> VBV VON LETZTEM MAL
 
 Beim letztem Portfolio war der Verbersserungsvorschlag, dass ich
+--> SPEZIFISCHER ZUM NEG PUNKT, MIT PROGRAMM DAFÜR
+--> VBV VON LETZTEM MAL
 ## Verifikation ✅
 Florian Portmann, mein Freund und Banknachbar, kann bestätigen, dass er nun weiss was Robocode ist. Er weiss jetzt nun wie man ein Roboter programmieren kann und erkennte die Strategie meines Roboters.
