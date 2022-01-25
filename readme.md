@@ -158,12 +158,12 @@ Der Roboter mit rotem Laser ist meiner.
 ## Reflexion ✨
 Ich fand es gut, dass ich nicht zu viele Probleme hatte mit anderen Programmiersprachen. Zuvor hatte ich mehr Angst, andere Sprachen asuzuprobieren.
 Im Robot-Editor habe ich auch die Farben des Hintergrunds gewechselt, da es meinen Augen viel besser ging, nach stundenlangem Schauen.
-Ich fand nicht so gut dass ich mir nicht eine konkrete Idee am Anfang erstellt habe, da ich somit viel mehr Zeit brauchte, eine Idee auf dem Weg zu entwickeln.
-Als Verbesserung könnte man, bevor man anfängt zu programmieren, ein kleines Word-Dokument oder eine Mindmap machen und die Ideen zusammenzuführen, analysieren und ausführen.
+Ich fand nicht so gut dass ich mir nicht eine konkrete Idee am Anfang erstellt habe, da ich somit viel mehr Zeit brauchte, eine Idee auf dem Weg zu entwickeln. Da ich nicht eine konkrete Idee hatte, hatte ich auch Probleme mit dem Programmieren, weil sich die einzelnen Funktionen zuerst immer gegeneinander gewirkt haben und somit mein Roboter sich zum Teil nicht mehr bewegen oder schiessen konnte.
+Als Verbesserung könnte man, bevor man anfängt zu programmieren, ein kleines Word-Dokument auf Word oder eine Mindmap auf XMind zu machen und die Ideen zusammenzuführen, analysieren und ausführen. Im Falle einer Mindmap, kann man auf XMind
 
 
 Beim letztem Portfolio war der Verbersserungsvorschlag, dass ich
---> SPEZIFISCHER ZUM NEG PUNKT, MIT PROGRAMM DAFÜR
---> VBV VON LETZTEM MAL
+
 ## Verifikation ✅
-Man lernt was Robocode ist in Zeile 11 und 12. Man findet heraus, wie man einen Roboter programmiert auf Zeile 14 und 15, jecoch kann man auch den Code anschauen. Um die Strategie herauszufinden, findet man diese auf Zeile 17.
+Man lernt was Robocode ist im Inhalt und dann Text ganz oben. 
+Man findet heraus, wie man einen Roboter programmiert im Inhalt, Tetxt und dann der Teil in der Mitte, jecoch kann man auch den Code anschauen. Um die Strategie herauszufinden, kann man zum Inhalt nochmal gehen, Text und dann der untere Teil.
