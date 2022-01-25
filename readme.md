@@ -1,7 +1,7 @@
 # Robocode "Catslayer" von Matteo Jakob
 
 ## Aufgabenstellung
-Aus persönlichem Intresse, aber auch als Auftrag, sollte ich ein Roboter auf "Robocode" programmieren.
+Aus persönlichem Intresse, aber auch als Auftrag, sollte ich ein Roboter auf "Robocode" programmieren. Diesen Roboter wurde in Einzelarbeit programmiert. Bei diesem Portfolio gehe ich mehr in Richtung wie alles Funktioniert und wie ich meinen ersten Roboter programmiert habe.
 - Der Leser erfährt, was "Robocode" ist
 - Der Leser lernt, wie man ein Roboter kann programmieren
 - Der Leser lernt, was die Strategie meines Roboters ist
