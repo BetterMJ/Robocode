@@ -7,14 +7,13 @@ Aus persönlichem Intresse, aber auch als Auftrag, sollte ich ein Roboter auf "R
 - Der Leser lernt, was die Strategie meines Roboters ist
 
 ## Inhalt
+### Robocode und ein Roboter 🤯
 
-### Text
-
-### Bild vom Code
+### Bild vom Code 💪
 ![](https://i.imgur.com/CBgRVw6.jpg)
 ![](https://i.imgur.com/kZ6vdQI.jpg)
 ![](https://i.imgur.com/69yWLAw.jpg)
-### Gif vom Spiel
+### Gif vom Spiel 🧠
 ![](https://media1.giphy.com/media/kJnUZH9p5oc7OCcMSt/giphy.gif)
 ## Reflexion
 Ich fand es gut, dass ich nicht zu viele Probleme hatte mit anderen Programmiersprachen. Zuvor hatte ich mehr Angst, andere Sprachen asuzuprobieren.
