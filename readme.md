@@ -1,4 +1,4 @@
-# Robocode "Catslayer" von Matteo Jakob
+# Robocode - von Matteo Jakob
 
 ## Aufgabenstellung
 Aus persönlichem Interesse, aber auch als Auftrag, habe ich ein Roboter auf "Robocode" programmieren. Diesen Roboter wurde in Einzelarbeit programmiert. Bei diesem Portfolio gehe ich mehr in Richtung wie alles funktioniert und wie ich meinen ersten Roboter programmiert habe.
